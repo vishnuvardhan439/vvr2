@@ -1,0 +1,64 @@
+/* ===== Global Page Styling ===== */
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f4f4f9;
+    color: #333;
+}
+
+/* ===== Header ===== */
+
+header {
+    background: #4c6ef5;
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 42px;
+    letter-spacing: 1px;
+}
+
+header p {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+/* ===== Main Content Box ===== */
+
+.content {
+    max-width: 850px;
+    background: white;
+    margin: 40px auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.content h2 {
+    color: #4c6ef5;
+    margin-top: 0;
+}
+
+.content ul {
+    margin-top: 10px;
+}
+
+.content ul li {
+    margin: 8px 0;
+    font-size: 16px;
+}
+
+/* ===== Footer ===== */
+
+footer {
+    text-align: center;
+    background: #4c6ef5;
+    color: white;
+    padding: 20px;
+    margin-top: 50px;
+    font-size: 14px;
+}
